@@ -1,0 +1,562 @@
+{
+    "level1": [
+        {
+            "id": "1",
+            "pregunta": "¿Dónde está Transilvania?",
+            "respuestas": [
+                {
+                    "opcion1": "Rumanía",
+                    "validacion": true
+                },
+                {
+                    "opcion2": "Moldavia",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Hungría",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "Serbia",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "pregunta": "¿Cuál es el río más largo del mundo?",
+            "respuestas": [
+                {
+                    "opcion1": "Nilo",
+                    "validacion": true
+                },
+                {
+                    "opcion2": "Amazonas",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Misisipi",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "Congue",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "pregunta": "¿Cuál es el país con menos habitantes del mundo?",
+            "respuestas": [
+                {
+                    "opcion1": "Perú",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "La Ciudad del Vaticano",
+                    "validacion": true
+                },
+                {
+                    "opcion3": "Mónaco",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "Maldivas",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "pregunta": "¿En qué año cayó el muro de Berlín?",
+            "respuestas": [
+                {
+                    "opcion1": "1989",
+                    "validacion": true
+                },
+                {
+                    "opcion2": "1987",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "1988",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "1990",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "pregunta": "¿Cuántos años duró la Primera Guerra Mundial?",
+            "respuestas": [
+                {
+                    "opcion1": "3 años",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "5 años",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "4 años",
+                    "validacion": true
+                },
+                {
+                    "opcion4": "2 años",
+                    "validacion": false
+                }
+            ]
+        }
+    ],
+    "level2": [
+        {
+            "id": "1",
+            "pregunta": "¿Cuántos años duró la Segunda Guerra Mundial?",
+            "respuestas": [
+                {
+                    "opcion1": "6 años",
+                    "validacion": true
+                },
+                {
+                    "opcion2": "4 años",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "5 años",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "7 años",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "pregunta": "¿Qué día es la fiesta nacional de los Estados Unidos?",
+            "respuestas": [
+                {
+                    "opcion1": "20 junio",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "4 agosto",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "El 4 de julio",
+                    "validacion": true
+                },
+                {
+                    "opcion4": "20 julio",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "pregunta": "¿Cuál es el océano más grande del mundo?",
+            "respuestas": [
+                {
+                    "opcion1": "El océano Pacífico",
+                    "validacion": true
+                },
+                {
+                    "opcion2": "El océano Ártico",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "El océano Índico",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "El océano Atlántico",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "pregunta": "¿Cuántos lados tiene un heptágono?",
+            "respuestas": [
+                {
+                    "opcion1": "Cinco lados",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "Seis lados",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Siete lados ",
+                    "validacion": true
+                },
+                {
+                    "opcion4": "Ocho lados",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "pregunta": "¿Cuál es el animal que más muertes provoca cada año?",
+            "respuestas": [
+                {
+                    "opcion1": "El mosquito",
+                    "validacion": true
+                },
+                {
+                    "opcion2": "León",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Tiburón",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "Cocodrilos",
+                    "validacion": false
+                }
+            ]
+        }
+    ],
+    "level3": [
+        {
+            "id": "1",
+            "pregunta": "¿Cuál es el planeta más grande del Sistema Solar?",
+            "respuestas": [
+                {
+                    "opcion1": "Pluton",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "Júpiter",
+                    "validacion": true
+                },
+                {
+                    "opcion3": "Neptuno",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "Marte",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "pregunta": "¿Cuál es el animal más grande de la Tierra?",
+            "respuestas": [
+                {
+                    "opcion1": "Hormiga",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "Jirafa",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Elefante",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "La ballena azul",
+                    "validacion": true
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "pregunta": "¿Cuántos huesos tiene el cuerpo humano?",
+            "respuestas": [
+                {
+                    "opcion1": "202",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "206 ",
+                    "validacion": true
+                },
+                {
+                    "opcion3": "207",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "205",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "pregunta": "¿Cuántas estrellas hay en la bandera estadounidense?",
+            "respuestas": [
+                {
+                    "opcion1": "50 ",
+                    "validacion": true
+                },
+                {
+                    "opcion2": "51",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "48 ",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "52",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "pregunta": "¿Quién ganó el mundial de fútbol de 2010?",
+            "respuestas": [
+                {
+                    "opcion1": "Brazil",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "Argentina",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "España",
+                    "validacion": true
+                },
+                {
+                    "opcion4": "Francia",
+                    "validacion": false
+                }
+            ]
+        }
+    ],
+    "level4": [
+        {
+            "id": "1",
+            "pregunta": "¿Cuántas notas musicales existen?",
+            "respuestas": [
+                {
+                    "opcion1": "Dies",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "Doce",
+                    "validacion": true
+                },
+                {
+                    "opcion3": "ocho",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "seite",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "pregunta": "¿Cuál es el mineral más duro del planeta? ",
+            "respuestas": [
+                {
+                    "opcion1": "Oro",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "Plata",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Platino",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "Diamante",
+                    "validacion": true
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "pregunta": "¿Cuál es la ciudad más poblada del mundo?",
+            "respuestas": [
+                {
+                    "opcion1": "Pekín",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "Paris",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Tokio",
+                    "validacion": true
+                },
+                {
+                    "opcion4": "New York",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "pregunta": "¿Cuántos dientes tiene el ser humano ?",
+            "respuestas": [
+                {
+                    "opcion1": "30",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "32",
+                    "validacion": true
+                },
+                {
+                    "opcion3": "28",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "34",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "pregunta": "¿Cuál es el primer elemento de la tabla periódica?",
+            "respuestas": [
+                {
+                    "opcion1": "Oxígeno",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "Hidrógeno",
+                    "validacion": true
+                },
+                {
+                    "opcion3": "Carbono",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "Litio",
+                    "validacion": false
+                }
+            ]
+        }
+    ],
+    "level5": [
+        {
+            "id": "1",
+            "pregunta": "¿Cuántos anillos hay en la bandera olímpica?",
+            "respuestas": [
+                {
+                    "opcion1": "seis",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "tres",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Cinco",
+                    "validacion": true
+                },
+                {
+                    "opcion4": "cuatro",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "2",
+            "pregunta": "¿Cuáles son los tres colores primarios?",
+            "respuestas": [
+                {
+                    "opcion1": "El amarillo, el azul y el rojo",
+                    "validacion": true
+                },
+                {
+                    "opcion2": "Amarillo, verde y rojo",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Rojo, azul y negro",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "Negro, blanco y gris",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "3",
+            "pregunta": "¿Cuántas patas tiene una araña?",
+            "respuestas": [
+                {
+                    "opcion1": "seis",
+                    "validacion": false
+                },
+                {
+                    "opcion2": "diez",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Ocho",
+                    "validacion": true
+                },
+                {
+                    "opcion4": "cuatro",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "4",
+            "pregunta": "¿Cuál es el país más grande?",
+            "respuestas": [
+                {
+                    "opcion1": "Rusia",
+                    "validacion": true
+                },
+                {
+                    "opcion2": "Estados Unidos",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Brazil",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "China",
+                    "validacion": false
+                }
+            ]
+        },
+        {
+            "id": "5",
+            "pregunta": "¿Cuál es el primer libro de la Biblia?",
+            "respuestas": [
+                {
+                    "opcion1": "Génesis",
+                    "validacion": true
+                },
+                {
+                    "opcion2": "Juan ",
+                    "validacion": false
+                },
+                {
+                    "opcion3": "Pedro",
+                    "validacion": false
+                },
+                {
+                    "opcion4": "San Lucas",
+                    "validacion": false
+                }
+            ]
+        }
+    ]
+}

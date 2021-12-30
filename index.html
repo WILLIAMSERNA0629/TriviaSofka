@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>TRIVIA SOFKA</title>
+    <link rel="stylesheet" type="text/css" href="trivia.css" />
+  </head>
+  <body>
+    <h1 class="homeTitle">TRIVIA SOFKA</h1>
+    <div class="containerMenu">
+      <input 
+      id="users"
+      class="nameInput"   
+        type="text"
+        name="users"        
+        maxlength="30"
+        placeholder="LOGIN USER"
+        checked
+      />
+      <div class="opciones">
+        <p class="margin">points</p>
+        <p class="margin">level</p>
+        <p class="margin">exit</p>
+      </div>
+    </div>
+    <div>
+      <p id="pregunta">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis
+        delectus veritatis
+      </p>
+      <input type="radio" id="res1" name="fav_language" value="RESPUESTA 1" />
+      <label for="res1"  id="resp1"></label>
+      <input type="radio" id="res2" name="fav_language" value="RESPUESTA 2" />
+      <label for="res2" id="resp2"></label><br />
+      <input type="radio" id="res3" name="fav_language" value="RESPUESTA 3" />
+      <label for="res3" id="resp3"></label>
+      <input type="radio" id="res4" name="fav_language" value="RESPUESTA 4" />
+      <label for="res4" id="resp4"></label>
+      <input type="button" value="Ver radio value" onclick="verradiovalue();" />
+    </div>
+
+    <script src="trivia.js"></script>
+     <!-- <script type="text/javascript" src="level.json"></script> -->
+  </body>
+</html>

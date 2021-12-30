@@ -1,0 +1,22 @@
+.homeTitle{
+    color: red; 
+    text-align: center;
+}
+.opciones{
+    display: flex;
+    
+}
+
+.margin {
+    padding: 10px;
+    border: 2px solid red ;
+}
+.containerMenu{
+    display: flex;
+    justify-content: space-between;
+
+}
+.nameInput{
+    width: 250px;
+    height: 40px;
+}
